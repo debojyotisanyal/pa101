@@ -1,4 +1,4 @@
-ErrorDocument 404 /google.com/
+ErrorDocument 404 https://www.pujaarchives.com/
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
