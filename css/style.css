@@ -67,6 +67,18 @@ p
   margin-right: 20px;
   font-size: 12.5px;
 }
+.div404
+{
+  margin-top: 70px; 
+  margin-bottom: 70px;
+  
+}
+#div404p, #div404p:hover
+{
+  font-size: 50px;
+  color: black;
+}
+
 .menubar a:hover, p:hover
 {
   color:red;
@@ -167,6 +179,12 @@ p
   {
     width:30% !important;
   }
+
+#div404p, #div404p:hover
+{
+  font-size: 25px;
+  color: black;
+}
   .menubar a, p
   {
     margin-left: 8px !important;
